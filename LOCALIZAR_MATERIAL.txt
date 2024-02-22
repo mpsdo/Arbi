@@ -1,0 +1,6 @@
+1 - Documentações escritas: 
+G:\OperaçõesTI - Documentações\Procedimentos - Marcos
+2 - Scripts compartilhados:
+G:\OperaçõesTI - Documentações\Procedimentos - Marcos\0 - scripts SQL
+3 - Scripts para inserts padronizados por cliente:
+G:\OperaçõesTI - Documentações\Procedimentos - Marcos\0 - scripts SQL\outros
